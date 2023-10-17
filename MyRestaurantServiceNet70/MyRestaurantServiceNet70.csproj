@@ -8,11 +8,6 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<None Include="MyRestaurantServiceNet70.csproj" />
-		<None Include="MyRestaurantServiceNet70.csproj.user" />
-	</ItemGroup>
-
-	<ItemGroup>
 		<PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.12" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="7.0.12" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.12">
